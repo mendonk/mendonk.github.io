@@ -1,2 +1,2 @@
 # mendonk.github.io
-Under Construction, come back soon.
+Under construction, please come back soon.
