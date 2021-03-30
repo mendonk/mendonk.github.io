@@ -27,7 +27,7 @@ url: "http://mendonkissling.com" # the base hostname & protocol for your site, e
 github_username:  mendonk
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
