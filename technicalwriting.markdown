@@ -11,7 +11,7 @@ I have four years of experience writing web and print documentation, mostly for 
 Some recent projects I've worked on:
 
 Microservices Testing:
-https://up9.com/docs/
+<a href="https://up9.com/docs/">UP9</a>
 
 If you're looking for a technical writer to help your next project succeed, get in touch. I love meeting new people. 
 
