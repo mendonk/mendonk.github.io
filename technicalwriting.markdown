@@ -8,6 +8,11 @@ I am a technical writer by trade. I might blog about it a little here. I find te
 
 I have four years of experience writing web and print documentation, mostly for heavy equipment, electrical troubleshooting, and enterprise software. 
 
+Some recent projects I've worked on:
+
+Microservices Testing:
+https://up9.com/docs/
+
 If you're looking for a technical writer to help your next project succeed, get in touch. I love meeting new people. 
 
 
