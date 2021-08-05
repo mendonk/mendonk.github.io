@@ -12,7 +12,7 @@ Some recent projects I've worked on:
 
 <a href="https://up9.com/docs/">UP9</a> Microservices Testing
 
-<a href="https://docs.safegraph.com/docs">SafeGraph</a> Data Science Models
+<a href="https://docs.safegraph.com/docs">SafeGraph</a> GraphQL API for Place Data
 
 <a href="https://getmizu.io/">Mizu</a>, an API Traffic Viewer for Kubernetes
 
