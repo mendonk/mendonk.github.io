@@ -8,4 +8,4 @@ Thanks for stopping by! My name is Mendon. I am a freelance technical writer wit
 
 I started freelancing because I value meeting new people, learning new things, and helping others succeed.
 
-See my recent portfolio [here](/technicalwriting.markdown.md).
+See my recent portfolio [here](/technicalwriting.markdown).
