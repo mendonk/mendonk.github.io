@@ -4,7 +4,7 @@ title: Technical Writing
 permalink: /technicalwriting/
 ---
 
-I am a technical writer by trade. I might blog about it a little here. I find technical writing is at an interesting place in the business cycle, and the trade itself is undergoing interesting changes. 
+I am a technical writer by trade. I might blog about it a little here. I find technical writing is at an interesting place in the business process, and the trade itself is undergoing interesting changes. 
 
 If you're looking for a technical writer to help your next project succeed, get in touch. I love meeting new people. 
 
