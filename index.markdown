@@ -20,4 +20,4 @@ Some recent projects I've worked on:
 
 <a href="https://www.abstractapi.com/">AbstractAPI</a> API Glossary
 
-If you're looking for a technical writer to help your next project succeed, get in touch. I love meeting new people. 
+If you're looking for a technical writer to help your next project succeed, get in touch!
