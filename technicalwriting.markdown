@@ -8,7 +8,7 @@ I am a technical writer by trade. I might blog about it a little here. I find te
 
 If you're looking for a technical writer to help your next project succeed, get in touch. I love meeting new people. 
 
-Some recent projects I've worked on:
+<u>Some recent projects I've worked on:</u>
 
 <a href="https://up9.com/docs/">UP9</a> Microservices Testing
 
