@@ -8,7 +8,7 @@ Thanks for stopping by! My name is Mendon. I am a freelance technical writer wit
 
 I value meeting new people, learning new things, and helping others succeed.
 
-Some recent projects I've worked on:
+<u>Some recent projects I've worked on:</u>
 
 <a href="https://up9.com/docs/">UP9</a> Microservices Testing
 
