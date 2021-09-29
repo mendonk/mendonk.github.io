@@ -8,6 +8,7 @@ Thanks for stopping by! My name is Mendon. I am a freelance technical writer wit
 
 I value meeting new people, learning new things, and helping others succeed.
 
+
 <u>Some recent projects I've worked on:</u>
 
 <a href="https://up9.com/docs/">UP9</a> Microservices Testing
@@ -19,5 +20,6 @@ I value meeting new people, learning new things, and helping others succeed.
 <a href="https://www.persimmony.com/">Persimmony</a> Project Tracking Software for the Public Good
 
 <a href="https://www.abstractapi.com/">AbstractAPI</a> API Glossary
+
 
 If you're looking for a technical writer to help your next project succeed, get in touch!
