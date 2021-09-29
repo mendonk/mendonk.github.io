@@ -10,7 +10,7 @@ I currently live in Pennsylvania, USA. I enjoy Runequest, cycling, computer game
 
 ![Mendon](Mendon3-01.jpg)
 
-Thanks [Ross Tyger](http://rosstyger.com) for the awesome portrait!
+Thanks to my friend [Ross Tyger](http://rosstyger.com) for the awesome portrait!
 
 This site is built with Jekyll and hosted on GitHub Pages. 
 
